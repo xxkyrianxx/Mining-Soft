@@ -1,2 +1,2 @@
-# Mining-Soft
-Altcoin mining software for Nvidia - Linux 
+# Auto_Mining_Script
+Altcoin Auto_Mining_Script for Nvidia - Linux 
