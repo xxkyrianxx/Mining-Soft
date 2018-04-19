@@ -48,5 +48,7 @@ Working on :
         · Adds more coins, thinking about BSD and ZEN
 
         · Save the coin configuration in automatic mode and use it in later
+        
+        · Learning Python to port it to windows.
 
         · More improvements....
