@@ -17,19 +17,15 @@ I did this script to give my mining automation. Its works simple, atm its compar
 · Miners : 
 
         Ethash - Claymore
-
         Equihash - Bminer and ZM Miner
-
         Others - Ccminer
-
         (You can use any Miner, just copy it to corresponding folder, and modify your "start" file to launch it.
 
 · Tested in ubuntu 16.04
 
 Requirements : 
 
-        · Console Terminator
-        
+        · Console Terminator      
         · Jq package
 
 Install : 
@@ -47,11 +43,7 @@ To run the Script just write in console : "Mining" (for english version) or "Min
 Working on :
       
         · Log to save starts and endings of each mined coin
-
         · Adds more coins, thinking about BSD and ZEN
-
-        · Save the coin configuration in automatic mode and use it in later
-        
+        · Save the coin configuration in automatic mode and use it in later     
         · Learning Python to port it to windows.
-
         · More improvements....
