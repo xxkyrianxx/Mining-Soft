@@ -27,10 +27,13 @@ I did this script to give my mining automation. Its works simple, atm its compar
 · Tested in ubuntu 16.04
 
 Requirements : 
+
         · Console Terminator
+        
         · Jq package
 
 Install : 
+
         · Download last Version.
         · Extract package
         · ./install
